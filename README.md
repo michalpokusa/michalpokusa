@@ -23,5 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<img src="./resources/linkedin.svg" width="32" height="32" style="transform: translate(0px, 8px);"/>
-<span style="font-size: 20px;padding: 10px">/michalpokusa</span>
+<img src="./resources/linkedin.svg" width="32" height="32"/>/michalpokusa
