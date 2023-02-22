@@ -39,7 +39,7 @@ Feel free to check out my repositories to see the projects I've worked on. Thank
 
 Here are some ideas to get you started:
 
-🌍 Opole, Poland
+🌍 Opole, Poland <img src="./resources/polish-flag.svg" height="12"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -59,5 +59,5 @@ You can contact me via email at: <a href="mailto:michal@pokusa.email">michal@pok
 <!-- ## <img src="./resources/social/linkedin.svg" width="32" height="32"/> /michalpokusa -->
 
 <a href="https://www.linkedin.com/in/michal-pokusa/">
-    <img src="./resources/social/linkedin--michalpokusa.svg" height="32"/>
+    <img src="./resources/social/linkedin--michal-pokusa.svg" height="32"/>
 </a>
