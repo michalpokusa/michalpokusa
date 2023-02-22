@@ -1,14 +1,18 @@
+# Work in progress...
+
 # 👋 Hello there!
 
-I'm from Poland 🇵🇱 and I hold an engineer degree. During high school, I began my journey with programming using basic HTML, CSS, and C++. Since then, I've gained experience with various technologies, including:
+I'm from Poland and I hold an engineer degree. During high school, I began my journey with programming using basic HTML, CSS, and C++. Since then, I've gained experience with various technologies, including:
 
 
-<img src="./resources/python.svg" width="32" height="32" />
+# <img src="./resources/python.svg" height="32" />
 
+My primary programming language and the one I use the most is Python. I've used it for a variety of projects, including data analysis, web development, and automation. I've also used it to build a few desktop applications using PyQt5.
 
 💻 3 years of experience with Python, which I've used for a variety of projects ranging from data analysis to web development
 
-<img src="./resources/django.svg" width="32" height="32" />
+
+# <img src="./resources/django-framework.svg" height="32" />
 
 
 🌐 2.5 years of experience with Django Framework, which I've used to build robust and scalable web applications
@@ -25,13 +29,6 @@ I'm from Poland 🇵🇱 and I hold an engineer degree. During high school, I be
 
 Feel free to check out my repositories to see the projects I've worked on. Thanks for stopping by! 😊
 
-### Work in progress..
-
-### Hi there 👋
-
-
-**michalpokusa/michalpokusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <img src="./resources/javascript.svg" width="32" height="32" />
 <img src="./resources/git.svg" width="32" height="32" />
 
@@ -39,7 +36,8 @@ Feel free to check out my repositories to see the projects I've worked on. Thank
 
 Here are some ideas to get you started:
 
-🌍 Opole, Poland <img src="./resources/polish-flag.svg" height="12"/>
+#### 🌍 I'm currently living in
+Opole, Poland <img src="./resources/polish-flag.svg" height="12"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
