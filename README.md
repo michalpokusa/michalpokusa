@@ -58,4 +58,6 @@ You can contact me via email at: <a href="mailto:michal@pokusa.email">michal@pok
 
 <!-- ## <img src="./resources/social/linkedin.svg" width="32" height="32"/> /michalpokusa -->
 
-<img src="./resources/social/linkedin--michalpokusa.svg" height="32"/>
+<a href="https://www.linkedin.com/in/michal-pokusa/">
+    <img src="./resources/social/linkedin--michalpokusa.svg" height="32"/>
+</a>
