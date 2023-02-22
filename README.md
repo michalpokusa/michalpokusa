@@ -52,7 +52,10 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me
 
-You can reach me via email at: <a href="mailto:michal@pokusa@email">michal@pokusa@email</a>
+You can contact me via email at: <a href="mailto:michal@pokusa.email">michal@pokusa.email</a>
 
+... or via social media:
 
-# <img src="./resources/social/linkedin.svg" width="32" height="32"/> /michalpokusa
+<!-- ## <img src="./resources/social/linkedin.svg" width="32" height="32"/> /michalpokusa -->
+
+<img src="./resources/social/linkedin--michalpokusa.svg" height="32"/>
