@@ -21,8 +21,7 @@ My primary programming language and the one I use the most is Python. I've used 
 
 # <img src="./resources/django-framework.svg" height="27" />
 
-
-🌐 2.5 years of experience with Django Framework, which I've used to build robust and scalable web applications
+I have 2.5 years of experience with Django Framework, which I've used to build several web applications. Through these years I've gained experience with a variety of Django features, including built-in authentication system, the ORM, and its templating engine. In addition to I have used Celery for asynchronous tasks and Django REST Framework for building RESTful APIs.
 
 
 # <img src="./resources/linux.svg" height="27" />
@@ -75,8 +74,6 @@ Opole, Poland <img src="./resources/polish-flag.svg" height="12"/>
 
 
 Feel free to check out my repositories to see the projects I've worked on. Thanks for stopping by! 😊
-
----
 
 ## 📫 How to reach me
 
