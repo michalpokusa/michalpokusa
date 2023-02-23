@@ -21,7 +21,7 @@ My primary programming language and the one I use the most is Python. I've used 
 🐧 Proficiency with Linux, which I've used extensively as my primary development environment
 
 
-<img src="./resources/docker.svg" height="20" />
+#### <img src="./resources/docker.svg" height="20" />
 
 During my career as a software developer, I've used Docker with docker-compose primarily for containerizing and deploying web applications. In addition to that, I've also used it for smaller independent aplications, multiple development environments and personal projects that included VPns, game servers and Discord bots.
 
