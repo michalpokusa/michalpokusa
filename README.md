@@ -20,7 +20,11 @@ My primary programming language and the one I use the most is Python. I've used 
 
 🐧 Proficiency with Linux, which I've used extensively as my primary development environment
 
-🐳 Some experience with Docker and docker-compose, which I've used to containerize my applications and simplify development and deployment
+
+<img src="./resources/docker.svg" height="20" />
+
+During my career as a software developer, I've used Docker with docker-compose primarily for containerizing and deploying web applications. In addition to that, I've also used it for smaller independent aplications, multiple development environments and personal projects that included VPns, game servers and Discord bots.
+
 
 🌟 Experience with JavaScript and some with TypeScript, which I've used to build dynamic and interactive web interfaces
 
@@ -36,7 +40,9 @@ Feel free to check out my repositories to see the projects I've worked on. Thank
 
 Here are some ideas to get you started:
 
-#### 🌍 I'm currently living in
+#### ⚡ Fun fact about me: ...
+
+#### 🌍 I'm currently living in:
 Opole, Poland <img src="./resources/polish-flag.svg" height="12"/>
 
 - 🔭 I’m currently working on ...
@@ -46,7 +52,6 @@ Opole, Poland <img src="./resources/polish-flag.svg" height="12"/>
 - 💬 Ask me about ...
 - : ...
 - 😄 Pronouns: he / him
-- ⚡ Fun fact about me: ...
 
 ## 📫 How to reach me
 
