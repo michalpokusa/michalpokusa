@@ -3,9 +3,9 @@
 # 👋 Hi!
 
 My name is __Michał Pokusa__ and I'm a software developer.
-I'm currently working as a web developer at <a href="https://www.stava.eu/en/">__Stava__</a> in Opole, Poland, where I'm responsible for developing and maintaining the company's web applications and internal tools.
+I'm currently working as a web developer at <a href="https://www.stava.eu/en/" target="_blank">__Stava__</a> in Opole, Poland, where I'm responsible for developing and maintaining the company's web applications and internal tools.
 
-I'm also a student at the <a href="https://po.edu.pl/?lang=en">__Opole University of Technology__</a> where I'm pursuing a master's degree in Computer Science.
+I'm also a student at the <a href="https://po.edu.pl/?lang=en" target="_blank">__Opole University of Technology__</a> where I'm pursuing a master's degree in Computer Science.
 
 
 Although my main field of interest is web development, in which I've been working for the past 3 years, I also have experience in creating independent programs and scripts, Linux server administration and some SCRUM mastering.
