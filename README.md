@@ -36,6 +36,13 @@ This includes tasks such as __installing and configuring software, managing user
 During my career as a software developer, I've used __Docker with docker-compose__ primarily for __containerizing and deploying__ web applications. In addition to that, I've also used it for __smaller independent applications__, multiple development environments and personal projects that included VPNs, Discord bots and game servers e.g. Minecraft.
 
 
+<img src="./resources/git.svg" height="20" />
+
+I have extensive experience using Git for version control, having used it on a variety of projects.
+As part of my experience with Git, I'm familiar with a variety of Git workflows, including feature branches, pull requests, and code reviews. I'm also confident with hosting repositories on platforms like GitHub and GitLab.
+
+---
+
 🌟 Experience with JavaScript and some with TypeScript, which I've used to build dynamic and interactive web interfaces
 
 📚 Currently, I'm learning React, which I'm excited to use to build modern and responsive web applications.
@@ -44,7 +51,6 @@ During my career as a software developer, I've used __Docker with docker-compose
 
 
 <img src="./resources/javascript.svg" width="32" height="32" />
-<img src="./resources/git.svg" width="32" height="32" />
 
 
 
@@ -70,6 +76,7 @@ Opole, Poland <img src="./resources/polish-flag.svg" height="12"/>
 
 Feel free to check out my repositories to see the projects I've worked on. Thanks for stopping by! 😊
 
+---
 
 ## 📫 How to reach me
 
