@@ -27,13 +27,13 @@ My primary programming language and the one I use the most is Python. I've used 
 
 # <img src="./resources/linux.svg" height="27" />
 
-I have experience working with Linux, which I've used extensively as my primary development environment for a number of years.
-This includes tasks such as installing and configuring software, managing users and permissions, as well as troubleshooting common issues. As part of my experience with server administration, I've set up and managed multiple Linux servers for various projects. This includes tasks such as configuring web servers, managing databases, and implementing security measures to protect against cyber attacks. I'm comfortable with automating tasks using scripts that streamline repetitive operations and increase productivity.
+I have experience working with Linux, which I've used extensively as my __primary development environment__ for a number of years.
+This includes tasks such as __installing and configuring software, managing users and permissions__, as well as __troubleshooting common issues__. As part of my experience with __server administration__, I've set up and managed multiple Linux servers for various projects. This includes tasks such as __configuring web servers, managing databases, and implementing security measures to protect against cyber attacks__. I'm comfortable with __automating tasks__ using scripts that streamline repetitive operations and increase productivity.
 
 
 #### <img src="./resources/docker.svg" height="20" />
 
-During my career as a software developer, I've used Docker with docker-compose primarily for containerizing and deploying web applications. In addition to that, I've also used it for smaller independent applications, multiple development environments and personal projects that included VPNs, Discord bots and game servers e.g. Minecraft.
+During my career as a software developer, I've used __Docker with docker-compose__ primarily for __containerizing and deploying__ web applications. In addition to that, I've also used it for __smaller independent applications__, multiple development environments and personal projects that included VPNs, Discord bots and game servers e.g. Minecraft.
 
 
 🌟 Experience with JavaScript and some with TypeScript, which I've used to build dynamic and interactive web interfaces
