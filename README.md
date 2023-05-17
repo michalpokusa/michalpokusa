@@ -3,7 +3,8 @@
 # 👋 Hi!
 
 My name is __Michał Pokusa__ and I'm a software developer.
-I'm currently working as a web developer at <a href="https://www.stava.eu/en/">__Stava__</a> <img src="./resources/stava-with-name-on-white.jpg" height="20" />
+I'm currently working as a web developer at
+<a href="https://www.stava.eu/en/"><img src="./resources/stava-with-name-on-white.jpg" height="20" /></a>
 in Opole, Poland, where I'm responsible for developing and maintaining the company's web applications and internal tools.
 
 I'm also a student at the <a href="https://po.edu.pl/?lang=en">__Opole University of Technology__</a> where I'm pursuing a master's degree in Computer Science.
@@ -44,12 +45,12 @@ I have experience with vanilla JavaScript and some with TypeScript, which I've u
 Currently, I'm learning React, which I'm excited to use to build modern and responsive web applications. -->
 
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
-#### ⚡ Fun fact about me: ...
+#### ⚡ Fun fact about me: ... -->
 
-#### 🌍 I'm currently living in:
-Opole, Poland <img src="./resources/polish-flag.svg" height="12"/>
+<!-- #### 🌍 I'm currently living in:
+Opole, Poland <img src="./resources/polish-flag.svg" height="12"/> -->
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -59,9 +60,9 @@ Opole, Poland <img src="./resources/polish-flag.svg" height="12"/>
 - : ...
 - 😄 Pronouns: he / him -->
 
-## 👨‍🏫 Lectures
+<!-- ## 👨‍🏫 Lectures
 
-...
+... -->
 
 ### 🔧 Technologies I use
 
@@ -76,10 +77,16 @@ Opole, Poland <img src="./resources/polish-flag.svg" height="12"/>
 <img src="./resources/github.svg" height="27" />
 
 
+### 🔭 I am currently learning
 
+<img src="./resources/react.svg" height="20" /> - Test
+<br />
+
+<img src="./resources/kubernetes.svg" height="20" />
+<!-- #### <img src="./resources/react.svg" height="20" /> -->
+<!-- #### <img src="./resources/kubernetes.svg" height="20" /> -->
 
 <img src="./resources/javascript-typescript.svg" height="20" />
-<img src="./resources/react.svg" height="20" />
 <img src="./resources/html5.svg" height="20" />
 
 <!-- Tier 3 -->
