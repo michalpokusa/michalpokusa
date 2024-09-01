@@ -1,4 +1,4 @@
-<h2>👋 Hi</h2>
+<h1>👋 Hi</h2>
 
 My name is <b>Michał Pokusa</b> and I'm a software developer.
 I'm currently working as a web developer at
@@ -10,7 +10,7 @@ I'm also a student at the <a href="https://po.edu.pl/?lang=en"><b>Opole Universi
 
 Although my main field of interest is web development, in which I've been working for the past 4 years, I also have experience in creating independent programs and scripts and Linux server administration. I appreciate order, peace and harmony, which I try to translate into the code I write.
 
-<h2>🧰 I work with</h2>
+<h1>🧰 I work with</h2>
 <img src="./resources/i-work-with.svg" width="100%" />
 
 
