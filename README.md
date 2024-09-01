@@ -19,5 +19,5 @@ You can contact me via email at: <a href="mailto:michal@pokusa.email">michal@pok
 It is also possible to get in touch with me on social media:
 
 <a href="https://www.linkedin.com/in/michal-pokusa/">
-    <img src="./resources/social/linkedin--michal-pokusa.svg" height="22"/>
+    <img src="./resources/linkedin--michal-pokusa.svg" height="22"/>
 </a>
